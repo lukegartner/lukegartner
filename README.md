@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring business solutions with software development when applicable.
 
-- :zap: In my free time, you'll find me on a mountain bike trail, snow covered slope, or plaing an acoustic guitar.
+- :zap: In my free time, you'll find me on a mountain bike trail, snow covered slope, or playing an acoustic guitar.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lukegartner/)
 
