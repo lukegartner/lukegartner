@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> musician, outdoorsman, and action sports enthusiast.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, musician, outdoorsman, and action sports enthusiast.
 - :telescope: Recently developed a rewards application integrated with a popular church volunteer scheduling software.
 
 - :seedling: Exploring business solutions with software development when applicable.
